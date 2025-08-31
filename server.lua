@@ -1,4 +1,3 @@
--- Geçerli hava türleri listesi
 local validWeatherTypes = {
     CLEAR = true,
     EXTRASUNNY = true,
