@@ -32,11 +32,11 @@ Getting started with **ich_weathermenu** is simple and fast. No need for build t
 
 ## 📁 Project Structure
 
-ich_weathermenu/
-├── fxmanifest.lua # FiveM resource manifest
-├── client.lua # Main code text
-├── server.lua # Core logging logic
-└── README.md # Project documentation
+ich_weathermenu/<br>
+├── fxmanifest.lua # FiveM resource manifest<br>
+├── client.lua # Main code text<br>
+├── server.lua # Core logging logic<br>
+└── README.md # Project documentation<br>
 
 ### 📦 Installation
 
